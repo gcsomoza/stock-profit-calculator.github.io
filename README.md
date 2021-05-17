@@ -4,7 +4,7 @@ A simple calculator that will help you to know if you got profit or loss when yo
 
 It is best used in mobile devices for you to push the button directly from your hand. Visit the link below to try it:
 
-[Stock Profit Calculator](https://gcsomoza.github.io/stock-profit-calculator.github.io/index.html)
+[Stock Profit Calculator](https://gcsomoza.github.io/stock-profit-calculator.github.io/)
 
 I use HTML, SASS, and Vue.js to create this project.
 
