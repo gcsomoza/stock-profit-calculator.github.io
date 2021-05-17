@@ -1,3 +1,7 @@
 # Stock Profit Calculator
 
-A simple calculator that will help you to know if you got profit or not on your stock
+A simple calculator that will help you to know if you got profit or loss when you plan to sell your stock.
+
+It is best used in mobile devices for you to push the button directly from your hand.
+
+I use HTML, SASS, and Vue.js to build create this project.
