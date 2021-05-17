@@ -4,4 +4,4 @@ A simple calculator that will help you to know if you got profit or loss when yo
 
 It is best used in mobile devices for you to push the button directly from your hand.
 
-I use HTML, SASS, and Vue.js to build create this project.
+I use HTML, SASS, and Vue.js to create this project.
